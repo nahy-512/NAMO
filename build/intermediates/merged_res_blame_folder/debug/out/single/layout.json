@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category_setting.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_category_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_schedule_todo_tab.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_schedule_todo_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_people.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_custom_palette_color.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_custom_palette_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_information_bubble.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_information_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_group_record_add_place.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_group_record_add_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_alert_popup.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_alert_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_group.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_new_schedule.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_new_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_todo_category_detail.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_todo_category_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calendar.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_diary_all.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_diary_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category_todo.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_category_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_custom_sticker.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_custom_sticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_group_list.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_group_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_group_record_event.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_group_record_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_todo.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_add_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_custom_font.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_custom_font.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_terms.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_terms.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_onboarding1.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_onboarding1.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_todo_array_category.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_todo_array_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_category_edit.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_category_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_todo_array_date.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_todo_array_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_edit_name.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_edit_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_group_see_place.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_group_see_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_custom_palette.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_custom_palette.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_pay.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_pay.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_group.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_add_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_see_schedule.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_see_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_category_content.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_category_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_floating_category.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_floating_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_schedule_list.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_schedule_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_diary.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_diary.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_todo_calendar_week.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_todo_calendar_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_onboarding3.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_onboarding3.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_gallery.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_new_todo.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_new_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_place_search.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_place_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_new_group_schedule.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_new_group_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_custom_palette.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_custom_palette.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_schedule.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_edit_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_diary_list.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_diary_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_schedule.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_schedule.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_add_place.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_add_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_record_edit.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_record_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_category.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_category_color.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_category_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_record.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_group_pay_activity.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_group_pay_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_code.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_see_group_schedule.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_see_group_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list_calendar.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_list_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_group_add_gallery.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_group_add_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_todo.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_onboarding4.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_onboarding4.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_custom.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_view_pager.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_memo_edit.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_memo_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_todo_category.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_todo_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_place_search_rv.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_place_search_rv.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_group_calendar_wrapper.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_group_calendar_wrapper.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_splash.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category_detail.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_category_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_group_calendar.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_group_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_group_record_member.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_group_record_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_category_schedule.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_category_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_spinner.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_todo_list.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_todo_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_see.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_see.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_custom_sticker.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_custom_sticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_custom_my.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_custom_my.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_diary_gallery.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_diary_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_record_write.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_record_write.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_edit_schedule.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_edit_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_group_add_place.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\item_group_add_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_onboarding2.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_onboarding2.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_onboarding5.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_onboarding5.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_record_write.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\activity_group_record_write.xml"
+    },
+    {
+        "merged": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_schedule_tab.xml",
+        "source": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\src\\main\\res\\layout\\fragment_schedule_tab.xml"
+    }
+]

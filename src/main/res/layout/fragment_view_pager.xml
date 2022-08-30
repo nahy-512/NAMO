@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Login.Onboarding.ViewPagerFragment">
+
+    <LinearLayout
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+        <ImageView
+            android:id="@+id/indicator0_iv"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            app:srcCompat="@drawable/shape_circle_gray" />
+        <ImageView
+            android:id="@+id/indicator1_iv"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginStart="25dp"
+            app:srcCompat="@drawable/shape_circle_gray" />
+        <ImageView
+            android:id="@+id/indicator2_iv"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginStart="25dp"
+            app:srcCompat="@drawable/shape_circle_gray" />
+        <ImageView
+            android:id="@+id/indicator3_iv"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginStart="25dp"
+            app:srcCompat="@drawable/shape_circle_gray" />
+        <ImageView
+            android:id="@+id/indicator4_iv"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginStart="25dp"
+            app:srcCompat="@drawable/shape_circle_gray" />
+    </LinearLayout>
+
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager_onboarding"
+        android:layout_marginTop="130dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</FrameLayout>

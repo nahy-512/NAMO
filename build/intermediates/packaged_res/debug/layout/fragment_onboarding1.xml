@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Login.Onboarding.screen.Onboarding1">
+
+    <TextView
+        android:id="@+id/onboarding1_description_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="소중한 나의 일정과 기록,\n어떻게 관리하시나요?"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/onboarding1_lottieView"
+        android:layout_width="0dp"
+        android:layout_height="500dp"
+        android:layout_marginBottom="20dp"
+        app:lottie_rawRes="@raw/onboarding1"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:layout_constraintTop_toBottomOf="@id/onboarding1_description_tv"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <LinearLayout
+        android:id="@+id/onboarding1_skip_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:orientation="horizontal"
+        android:layout_marginBottom="5dp"
+        app:layout_constraintEnd_toEndOf="@id/onboarding1_next_btn"
+        app:layout_constraintBottom_toTopOf="@id/onboarding1_next_btn">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/skip"
+            android:textSize="15sp"
+            android:textColor="@color/MainOrange" />
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="20dp"
+            android:padding="3dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginStart="5dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_arrow_right_orange"/>
+
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/onboarding1_next_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="25dp"
+        android:layout_marginBottom="40dp"
+        android:stateListAnimator="@null"
+        android:padding="20dp"
+        android:background="@drawable/login_btn_background"
+        android:backgroundTint="@color/groupCodeGray"
+        android:textColor="@color/MainOrange"
+        android:text="다음"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

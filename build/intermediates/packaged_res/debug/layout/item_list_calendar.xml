@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/item_calendar_date_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal|top"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/item_calendar_event1"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="13dp"
+        android:visibility="invisible"
+        android:textSize="11sp"
+        android:text="테스트"
+        android:background="@color/MainOrange"
+        android:textColor="@color/white"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/item_calendar_event2"
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="13dp"
+        android:visibility="invisible"
+        android:textSize="11sp"
+        android:text="테스트"
+        android:background="@color/purple_200"
+        android:textColor="@color/white"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/item_calendar_event3"
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="13dp"
+        android:visibility="invisible"
+        android:textSize="11sp"
+        android:text="테스트"
+        android:background="@color/todo_housework"
+        android:textColor="@color/white"
+        android:textAlignment="center"/>
+
+
+    <TextView
+        android:id="@+id/item_calendar_event_count"
+        android:layout_marginTop="3dp"
+        android:layout_width="match_parent"
+        android:layout_height="13dp"
+        android:visibility="invisible"
+        android:textSize="11sp"
+        android:text="갯수"
+        android:background="@color/typeBeforeGray"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+</LinearLayout>

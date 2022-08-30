@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hedgh\\TeamNamo\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sr-rRS\\values-sr-rRS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hedgh\\OtherGithub\\udemy-android-study\\notification-study\\caches\\transforms-3\\4cd7f9251a49614c593b4c0b9d154cee\\transformed\\jetified-android.joda-2.9.9.3\\res\\values-sr-rRS\\values-sr-rRS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Group 그룹 이름 변경 -->
+
+    <View
+        android:id="@+id/edit_dark_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/transparent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <FrameLayout
+        android:id="@+id/edit_group_frm"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="15dp"
+        android:paddingHorizontal="20dp"
+        android:paddingBottom="22dp"
+        android:background="@drawable/border_round_all_10dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/edit_group_back_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textColor="@color/textGray"
+                android:text="@string/close"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:text="이름 편집"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <TextView
+                android:id="@+id/edit_group_save_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textColor="@color/textGray"
+                android:text="@string/save"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="45dp"
+            app:layout_constraintTop_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <TextView
+                android:id="@+id/edit_group_title_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="@color/textGray"
+                android:text="그룹명"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <EditText
+                android:id="@+id/edit_group_title_et"
+                android:layout_width="145dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:hint="입력"
+                android:singleLine="true"
+                android:textSize="15sp"
+                android:background="@color/transparent"
+                app:layout_constraintTop_toTopOf="@id/edit_group_title_tv"
+                app:layout_constraintEnd_toEndOf="parent"/>
+
+            <View
+                android:layout_width="150dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="5dp"
+                android:background="@color/notyetGray"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/edit_group_title_et"/>
+
+            <TextView
+                android:id="@+id/edit_group_coverImg_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="@color/textGray"
+                android:text="커버 이미지"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/edit_group_title_tv"/>
+
+            <TextView
+                android:id="@+id/edit_group_alert_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="15sp"
+                android:textColor="@color/textGray"
+                android:text="변경 불가"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/edit_group_coverImg_tv"/>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/edit_group_cover_cv"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="0dp"
+                app:layout_constraintTop_toTopOf="@id/edit_group_coverImg_tv"
+                app:layout_constraintEnd_toEndOf="parent">
+
+                <ImageView
+                    android:id="@+id/edit_group_coverImg_iv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/ic_group_coverimg_add"
+                    android:scaleType="centerCrop"/>
+            </androidx.cardview.widget.CardView>
+
+<!--            <LinearLayout-->
+<!--                android:id="@+id/edit_group_cord_ll"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:padding="11dp"-->
+<!--                android:layout_marginTop="20dp"-->
+<!--                android:orientation="horizontal"-->
+<!--                android:background="@drawable/border_round_all_10dp"-->
+<!--                android:backgroundTint="@color/groupCodeGray"-->
+<!--                app:layout_constraintStart_toStartOf="parent"-->
+<!--                app:layout_constraintTop_toBottomOf="@id/add_group_cover_cv">-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginStart="15dp"-->
+<!--                    android:textSize="15sp"-->
+<!--                    android:textStyle="bold"-->
+<!--                    android:textColor="@color/textGray"-->
+<!--                    android:text="@string/groupCode" />-->
+
+<!--                <TextView-->
+<!--                    android:id="@+id/edit_group_code_tv"-->
+<!--                    android:layout_width="75dp"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginStart="40dp"-->
+<!--                    android:textAlignment="textEnd"-->
+<!--                    android:textSize="15sp"-->
+<!--                    android:textColor="@color/textGray"-->
+<!--                    android:text="-" />-->
+
+<!--            </LinearLayout>-->
+
+<!--            <ImageView-->
+<!--                android:id="@+id/edit_group_code_copy_iv"-->
+<!--                android:layout_width="16dp"-->
+<!--                android:layout_height="16dp"-->
+<!--                android:layout_marginEnd="12dp"-->
+<!--                android:src="@drawable/ic_group_cord_copy"-->
+<!--                app:layout_constraintTop_toTopOf="@id/edit_group_cord_ll"-->
+<!--                app:layout_constraintBottom_toBottomOf="@id/edit_group_cord_ll"-->
+<!--                app:layout_constraintEnd_toEndOf="@id/edit_group_cord_ll"/>-->
+
+            <TextView
+                android:id="@+id/group_info_leave_btn"
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginBottom="10dp"
+                android:textSize="15sp"
+                android:gravity="center"
+                android:text="탈퇴하기"
+                android:textColor="@color/black"
+                android:background="@drawable/record_btn_background"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/edit_group_cover_cv"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </FrameLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

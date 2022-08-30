@@ -1,0 +1,664 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:1-104:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\5d2a4dcba802218922132a6cfc433d4b\transformed\databinding-adapters-7.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\fe043514c825c4774403e28059036569\transformed\jetified-databinding-ktx-7.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\87ff246889fb71fbc378b87eeaf65bc4\transformed\databinding-runtime-7.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:2:1-64:12
+MERGED from [androidx.databinding:viewbinding:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6f25a86e97ee521bad94194999f7ed41\transformed\jetified-viewbinding-7.1.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.kakao.sdk:v2-user:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\31114897937b313ed1cf7e47a0b3f7a3\transformed\jetified-v2-user-2.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:2:1-21:12
+MERGED from [com.kakao.sdk:v2-network:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b0864df546d9a77102f04dffcb962395\transformed\jetified-v2-network-2.11.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\37926bced10daefa2f88fdd837e3be04\transformed\jetified-material-calendarview-1.4.3\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\8640fa40262907b006f99a35597d584c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\5ee71026fd9889aacbadf7114845598b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\ba1ce73eb11d6bffdd042a7f1958c179\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6eccb8304f786914d58b6f1edcbdf9d1\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\115201b3912a5322e14ebfe1d21d6a10\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c3027e97bea488d043a813a2c9ac71c5\transformed\jetified-fragment-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\cfe61268f1ddd83d9f51de7b44ece82a\transformed\navigation-ui-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f423f268f01afeb58a56224d6c379696\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a9416854d7afdf1f10fee00475ff23a7\transformed\navigation-ui-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6a2938f8188677959de07677694b01e3\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\7bcc4436a1c214775a5ff38908850d2c\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\d065f0860a764219c1262ea6db35c15b\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\23516a8967c9c1dc81de82c438a79dee\transformed\navigation-common-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\ceb9a943c99ea890158a1ac830631787\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a31a80ebf91a222cd4956eb60a443da9\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\264362c75b4b98bae6f2be2fb80b485c\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f28fc4bdad7ac90e0eb0957d21df1357\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a19766cd7db9c6eecb90a9059fb41962\transformed\jetified-paper-onboarding-1.1.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\fb4a1a3fd66e3e00d6536a514b33295d\transformed\jetified-lottie-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\74410895a9c3b7af617862bea2ed8bf2\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f8cd1986966d6f1e923a2b131c73bc82\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\eddb003fd1a9fb4478b821454e48218d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3908d53c429147f8214b5340a781ee11\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a8ded68cf66b98fed3add6242a9d3d60\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\447e3d459c055e0f497530200d0603d2\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b91a2b8765e5263813ac45477ff6740e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a3ac2a445009985918a4b7abedfdc1bc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\14c90422d440fcf0f3fad7fea51781a4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\68db0a67ffb53522a67205d7646c4ea4\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6d2ce112840a86d93ae74cfd7e2da77d\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a2d6575e8fecb56fa6f49af570f8fcaa\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a6091abe04f67f8df85f6a4c6e091635\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\1dc463de2b5a9903c68f0b0aabc5d03c\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\ed980f29a678c5c0559af30142ecd54e\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\2d886446ae67e9846ab73e7b10e30369\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25823ecda9ea361c9b9fae531365b15a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\9d160f7d04de22c1ab8ba7b57cf9d13d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c9a9c47fd30a0fee1b585803b9a59cac\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\8f9877a99c12bd69444d43ad99139115\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\472a9236432929ea27843b396799041e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\772a7a2fc5325aadf7171829aa0dd0e3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e69b43cd8e8227ef404ee7ecc9ac782c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b073801cdeed27a5eb0d1bf5bb603df3\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b51d474292743dd0cf04fc44967eaf94\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4223007ef44d7c8cdbb09b492b229151\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\64e263c161fbe32abd2d9c094e5866de\transformed\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c11774caf7d0459999c55b57d6051b00\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [net.danlew:android.joda:2.9.9.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4cd7f9251a49614c593b4c0b9d154cee\transformed\jetified-android.joda-2.9.9.3\AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\1834038afe2b9d40810ee07639ab8231\transformed\jetified-threetenabp-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\869a50156bca5b9c5ff6a387c4691b04\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\af8b4b7c5f8fdb6717da7c4f446463e5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\854556f2dddb702f1d1a39e53adb344d\transformed\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\daa382b4fa35ff3ec353b29b9b50271c\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\898094ba3625d9bec7d31b38a7a3b97e\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\26e9d1510b1571c081e7212734872ff6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\7b0ba5ed839796d41eb9fea1f92e7272\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3056a4e5f2cdc4b5b3393c335fafe897\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\70931d5d52459413698d371985bb753d\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b63c537b518ab9fd7f40e26b5339db4b\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3652325842e0eb89562eae0b73c371e9\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\455c6d7bb0c4ef47dcb60ee241ca26b9\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\67316fed6ffcc467f87b404f2b32d0c3\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a5bf0c961545bdd7857f4342ffd25a96\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\762fc96d8a5f350df1b6f10162372131\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\76ec600ccdc8206583fc86e0d31045c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\16957e63e63dac1b6f709380c4c5350c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\90f1696f2c1336a7265448b1091103b7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\8f450385d9f1a597e1eda67210818afe\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c678126b1f679f32a35c7eed411ca661\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\906ed56b049ec56ae1d61c488e4d1a6d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:1-104:12
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:1-104:12
+	package
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:1-104:12
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:1-104:12
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:11:5-67
+MERGED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:12:5-102:19
+MERGED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:25:5-62:19
+MERGED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:25:5-62:19
+MERGED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:9:5-19:19
+MERGED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:9:5-19:19
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\37926bced10daefa2f88fdd837e3be04\transformed\jetified-material-calendarview-1.4.3\AndroidManifest.xml:12:5-20
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\37926bced10daefa2f88fdd837e3be04\transformed\jetified-material-calendarview-1.4.3\AndroidManifest.xml:12:5-20
+MERGED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\264362c75b4b98bae6f2be2fb80b485c\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\264362c75b4b98bae6f2be2fb80b485c\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f28fc4bdad7ac90e0eb0957d21df1357\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f28fc4bdad7ac90e0eb0957d21df1357\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a19766cd7db9c6eecb90a9059fb41962\transformed\jetified-paper-onboarding-1.1.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a19766cd7db9c6eecb90a9059fb41962\transformed\jetified-paper-onboarding-1.1.3\AndroidManifest.xml:11:5-15:19
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\fb4a1a3fd66e3e00d6536a514b33295d\transformed\jetified-lottie-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\fb4a1a3fd66e3e00d6536a514b33295d\transformed\jetified-lottie-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f8cd1986966d6f1e923a2b131c73bc82\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f8cd1986966d6f1e923a2b131c73bc82\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\eddb003fd1a9fb4478b821454e48218d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\eddb003fd1a9fb4478b821454e48218d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a6091abe04f67f8df85f6a4c6e091635\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a6091abe04f67f8df85f6a4c6e091635\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c11774caf7d0459999c55b57d6051b00\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c11774caf7d0459999c55b57d6051b00\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\1834038afe2b9d40810ee07639ab8231\transformed\jetified-threetenabp-1.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\1834038afe2b9d40810ee07639ab8231\transformed\jetified-threetenabp-1.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\daa382b4fa35ff3ec353b29b9b50271c\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\daa382b4fa35ff3ec353b29b9b50271c\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a5bf0c961545bdd7857f4342ffd25a96\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a5bf0c961545bdd7857f4342ffd25a96\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\76ec600ccdc8206583fc86e0d31045c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\76ec600ccdc8206583fc86e0d31045c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:18:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c11774caf7d0459999c55b57d6051b00\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:14:9-35
+	android:networkSecurityConfig
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:13:9-53
+activity#com.kakao.sdk.auth.AuthCodeHandlerActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:21:9-34:20
+MERGED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:15:9-18:56
+MERGED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:15:9-18:56
+	android:launchMode
+		ADDED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:17:13-44
+	android:exported
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:18:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:22:13-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:oauth+data:scheme:@string/kakao_native_key
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:24:13-33:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:27:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:28:27-75
+data
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:30:17-32:65
+	android:host
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:31:21-41
+	android:scheme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:32:21-62
+activity#com.example.namo.SplashActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:exported
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:36:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.namo.Bottom.MainActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:44:9-57
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:44:19-54
+activity#com.example.namo.Login.LoginActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:45:9-57
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:45:19-54
+activity#com.example.namo.Login.Onboarding.TermsActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:46:9-47:55
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:47:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:46:19-65
+activity#com.example.namo.Bottom.Group.GroupAddPlaceActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:48:9-50:61
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:50:13-58
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:49:13-63
+activity#com.example.namo.Bottom.Group.GroupSeeActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:51:9-53:61
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:53:13-58
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:52:13-58
+activity#com.example.namo.Bottom.Home.Record.RecordEditActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:54:9-75
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:54:19-72
+activity#com.example.namo.Bottom.Home.Record.RecordWriteActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:55:9-76
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:55:19-73
+activity#com.example.namo.Floating.Schedule.AddActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:56:9-58:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:58:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:57:13-58
+activity#com.example.namo.Floating.Todo.AddTodoActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:59:9-61:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:61:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:60:13-58
+activity#com.example.namo.Floating.Category.CategoryActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:62:9-64:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:64:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:63:13-63
+activity#com.example.namo.Floating.Category.CategoryEditActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:65:9-67:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:67:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:66:13-67
+activity#com.example.namo.Floating.Schedule.AlertActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:68:9-70:64
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:70:13-61
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:69:13-60
+activity#com.example.namo.Floating.Schedule.PlaceSearchActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:71:9-73:61
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:73:13-58
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:72:13-66
+activity#com.example.namo.Bottom.Home.EditScheduleActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:74:9-76:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:76:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:75:13-61
+activity#com.example.namo.Bottom.Group.GroupScheduleActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:77:9-79:64
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:79:13-61
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:78:13-63
+activity#com.example.namo.Bottom.Group.GroupRecordActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:80:9-82:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:82:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:81:13-61
+activity#com.example.namo.Bottom.Group.AddGroupActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:83:9-85:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:85:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:84:13-58
+activity#com.example.namo.Bottom.Group.EditGroupNameActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:86:9-88:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:88:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:87:13-63
+activity#com.example.namo.Bottom.Group.InputGroupCodeActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:89:9-91:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:91:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:90:13-64
+activity#com.example.namo.Bottom.Group.GroupInfoBubbleActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:92:9-94:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:94:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:93:13-65
+activity#com.example.namo.Bottom.Group.GroupPayActivity
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:95:9-97:56
+	android:theme
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:97:13-53
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:96:13-58
+meta-data#com.kakao.sdk.AppKey
+ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:99:9-101:53
+	android:value
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:101:13-50
+	android:name
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:100:13-48
+uses-sdk
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\5d2a4dcba802218922132a6cfc433d4b\transformed\databinding-adapters-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\5d2a4dcba802218922132a6cfc433d4b\transformed\databinding-adapters-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\fe043514c825c4774403e28059036569\transformed\jetified-databinding-ktx-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\fe043514c825c4774403e28059036569\transformed\jetified-databinding-ktx-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\87ff246889fb71fbc378b87eeaf65bc4\transformed\databinding-runtime-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\87ff246889fb71fbc378b87eeaf65bc4\transformed\databinding-runtime-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.databinding:viewbinding:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6f25a86e97ee521bad94194999f7ed41\transformed\jetified-viewbinding-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6f25a86e97ee521bad94194999f7ed41\transformed\jetified-viewbinding-7.1.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.kakao.sdk:v2-user:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\31114897937b313ed1cf7e47a0b3f7a3\transformed\jetified-v2-user-2.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.kakao.sdk:v2-user:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\31114897937b313ed1cf7e47a0b3f7a3\transformed\jetified-v2-user-2.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.kakao.sdk:v2-network:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b0864df546d9a77102f04dffcb962395\transformed\jetified-v2-network-2.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.kakao.sdk:v2-network:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b0864df546d9a77102f04dffcb962395\transformed\jetified-v2-network-2.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\37926bced10daefa2f88fdd837e3be04\transformed\jetified-material-calendarview-1.4.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\37926bced10daefa2f88fdd837e3be04\transformed\jetified-material-calendarview-1.4.3\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\8640fa40262907b006f99a35597d584c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\8640fa40262907b006f99a35597d584c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\5ee71026fd9889aacbadf7114845598b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\5ee71026fd9889aacbadf7114845598b\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\ba1ce73eb11d6bffdd042a7f1958c179\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\ba1ce73eb11d6bffdd042a7f1958c179\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6eccb8304f786914d58b6f1edcbdf9d1\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6eccb8304f786914d58b6f1edcbdf9d1\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\115201b3912a5322e14ebfe1d21d6a10\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\115201b3912a5322e14ebfe1d21d6a10\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c3027e97bea488d043a813a2c9ac71c5\transformed\jetified-fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c3027e97bea488d043a813a2c9ac71c5\transformed\jetified-fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\cfe61268f1ddd83d9f51de7b44ece82a\transformed\navigation-ui-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\cfe61268f1ddd83d9f51de7b44ece82a\transformed\navigation-ui-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f423f268f01afeb58a56224d6c379696\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f423f268f01afeb58a56224d6c379696\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a9416854d7afdf1f10fee00475ff23a7\transformed\navigation-ui-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a9416854d7afdf1f10fee00475ff23a7\transformed\navigation-ui-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6a2938f8188677959de07677694b01e3\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6a2938f8188677959de07677694b01e3\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\7bcc4436a1c214775a5ff38908850d2c\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\7bcc4436a1c214775a5ff38908850d2c\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\d065f0860a764219c1262ea6db35c15b\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\d065f0860a764219c1262ea6db35c15b\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\23516a8967c9c1dc81de82c438a79dee\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\23516a8967c9c1dc81de82c438a79dee\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\ceb9a943c99ea890158a1ac830631787\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\ceb9a943c99ea890158a1ac830631787\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a31a80ebf91a222cd4956eb60a443da9\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a31a80ebf91a222cd4956eb60a443da9\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\264362c75b4b98bae6f2be2fb80b485c\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\264362c75b4b98bae6f2be2fb80b485c\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f28fc4bdad7ac90e0eb0957d21df1357\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f28fc4bdad7ac90e0eb0957d21df1357\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a19766cd7db9c6eecb90a9059fb41962\transformed\jetified-paper-onboarding-1.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ramotion.paperonboarding:paper-onboarding:1.1.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a19766cd7db9c6eecb90a9059fb41962\transformed\jetified-paper-onboarding-1.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\fb4a1a3fd66e3e00d6536a514b33295d\transformed\jetified-lottie-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\fb4a1a3fd66e3e00d6536a514b33295d\transformed\jetified-lottie-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\74410895a9c3b7af617862bea2ed8bf2\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\74410895a9c3b7af617862bea2ed8bf2\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f8cd1986966d6f1e923a2b131c73bc82\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\f8cd1986966d6f1e923a2b131c73bc82\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\eddb003fd1a9fb4478b821454e48218d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\eddb003fd1a9fb4478b821454e48218d\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3908d53c429147f8214b5340a781ee11\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3908d53c429147f8214b5340a781ee11\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a8ded68cf66b98fed3add6242a9d3d60\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a8ded68cf66b98fed3add6242a9d3d60\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\447e3d459c055e0f497530200d0603d2\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\447e3d459c055e0f497530200d0603d2\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b91a2b8765e5263813ac45477ff6740e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b91a2b8765e5263813ac45477ff6740e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a3ac2a445009985918a4b7abedfdc1bc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a3ac2a445009985918a4b7abedfdc1bc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\14c90422d440fcf0f3fad7fea51781a4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\14c90422d440fcf0f3fad7fea51781a4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\68db0a67ffb53522a67205d7646c4ea4\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\68db0a67ffb53522a67205d7646c4ea4\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6d2ce112840a86d93ae74cfd7e2da77d\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\6d2ce112840a86d93ae74cfd7e2da77d\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a2d6575e8fecb56fa6f49af570f8fcaa\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a2d6575e8fecb56fa6f49af570f8fcaa\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a6091abe04f67f8df85f6a4c6e091635\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a6091abe04f67f8df85f6a4c6e091635\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\1dc463de2b5a9903c68f0b0aabc5d03c\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\1dc463de2b5a9903c68f0b0aabc5d03c\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\ed980f29a678c5c0559af30142ecd54e\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\ed980f29a678c5c0559af30142ecd54e\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\2d886446ae67e9846ab73e7b10e30369\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\2d886446ae67e9846ab73e7b10e30369\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25823ecda9ea361c9b9fae531365b15a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25823ecda9ea361c9b9fae531365b15a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\9d160f7d04de22c1ab8ba7b57cf9d13d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\9d160f7d04de22c1ab8ba7b57cf9d13d\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c9a9c47fd30a0fee1b585803b9a59cac\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c9a9c47fd30a0fee1b585803b9a59cac\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\8f9877a99c12bd69444d43ad99139115\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\8f9877a99c12bd69444d43ad99139115\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\472a9236432929ea27843b396799041e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\472a9236432929ea27843b396799041e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\772a7a2fc5325aadf7171829aa0dd0e3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\772a7a2fc5325aadf7171829aa0dd0e3\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e69b43cd8e8227ef404ee7ecc9ac782c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e69b43cd8e8227ef404ee7ecc9ac782c\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b073801cdeed27a5eb0d1bf5bb603df3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b073801cdeed27a5eb0d1bf5bb603df3\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b51d474292743dd0cf04fc44967eaf94\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b51d474292743dd0cf04fc44967eaf94\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4223007ef44d7c8cdbb09b492b229151\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4223007ef44d7c8cdbb09b492b229151\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\64e263c161fbe32abd2d9c094e5866de\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\64e263c161fbe32abd2d9c094e5866de\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c11774caf7d0459999c55b57d6051b00\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c11774caf7d0459999c55b57d6051b00\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [net.danlew:android.joda:2.9.9.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4cd7f9251a49614c593b4c0b9d154cee\transformed\jetified-android.joda-2.9.9.3\AndroidManifest.xml:6:5-43
+MERGED from [net.danlew:android.joda:2.9.9.3] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4cd7f9251a49614c593b4c0b9d154cee\transformed\jetified-android.joda-2.9.9.3\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\1834038afe2b9d40810ee07639ab8231\transformed\jetified-threetenabp-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.3.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\1834038afe2b9d40810ee07639ab8231\transformed\jetified-threetenabp-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\869a50156bca5b9c5ff6a387c4691b04\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\869a50156bca5b9c5ff6a387c4691b04\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\af8b4b7c5f8fdb6717da7c4f446463e5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\af8b4b7c5f8fdb6717da7c4f446463e5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\854556f2dddb702f1d1a39e53adb344d\transformed\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\854556f2dddb702f1d1a39e53adb344d\transformed\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\daa382b4fa35ff3ec353b29b9b50271c\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\daa382b4fa35ff3ec353b29b9b50271c\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\898094ba3625d9bec7d31b38a7a3b97e\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\898094ba3625d9bec7d31b38a7a3b97e\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\26e9d1510b1571c081e7212734872ff6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\26e9d1510b1571c081e7212734872ff6\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\7b0ba5ed839796d41eb9fea1f92e7272\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\7b0ba5ed839796d41eb9fea1f92e7272\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3056a4e5f2cdc4b5b3393c335fafe897\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3056a4e5f2cdc4b5b3393c335fafe897\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\70931d5d52459413698d371985bb753d\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\70931d5d52459413698d371985bb753d\transformed\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b63c537b518ab9fd7f40e26b5339db4b\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\b63c537b518ab9fd7f40e26b5339db4b\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3652325842e0eb89562eae0b73c371e9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3652325842e0eb89562eae0b73c371e9\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\455c6d7bb0c4ef47dcb60ee241ca26b9\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\455c6d7bb0c4ef47dcb60ee241ca26b9\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\67316fed6ffcc467f87b404f2b32d0c3\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\67316fed6ffcc467f87b404f2b32d0c3\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a5bf0c961545bdd7857f4342ffd25a96\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a5bf0c961545bdd7857f4342ffd25a96\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\762fc96d8a5f350df1b6f10162372131\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\762fc96d8a5f350df1b6f10162372131\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\76ec600ccdc8206583fc86e0d31045c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\76ec600ccdc8206583fc86e0d31045c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\16957e63e63dac1b6f709380c4c5350c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\16957e63e63dac1b6f709380c4c5350c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\90f1696f2c1336a7265448b1091103b7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\90f1696f2c1336a7265448b1091103b7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\8f450385d9f1a597e1eda67210818afe\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\8f450385d9f1a597e1eda67210818afe\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c678126b1f679f32a35c7eed411ca661\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c678126b1f679f32a35c7eed411ca661\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\906ed56b049ec56ae1d61c488e4d1a6d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\906ed56b049ec56ae1d61c488e4d1a6d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:10:22-76
+queries
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:13:5-23:15
+MERGED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:9:5-22:15
+MERGED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:9:5-22:15
+package#com.nhn.android.search
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:16:9-58
+	android:name
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:16:18-55
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:18:9-20:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:19:13-90
+	android:name
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:19:21-87
+package#com.android.chrome
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:22:18-51
+activity#com.navercorp.nid.oauth.NidOAuthBridgeActivity
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:32:9-35:78
+	android:configChanges
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:34:13-59
+	android:theme
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:35:13-75
+	android:name
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:33:13-74
+activity#com.navercorp.nid.oauth.activity.NidOAuthWebViewActivity
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:36:9-41:78
+	android:screenOrientation
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:40:13-47
+	android:label
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:39:13-48
+	android:configChanges
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:38:13-59
+	android:theme
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:41:13-75
+	android:name
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:37:13-84
+activity#com.navercorp.nid.oauth.activity.NidOAuthCustomTabActivity
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:42:9-61:20
+	android:screenOrientation
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:48:13-47
+	android:label
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:46:13-52
+	android:launchMode
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:47:13-44
+	android:exported
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:45:13-36
+	android:configChanges
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:44:13-59
+	android:theme
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:43:13-86
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:authorize+data:path:/+data:scheme:naver3rdpartylogin
+ADDED from [com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:50:13-60:29
+activity#com.kakao.sdk.auth.TalkAuthCodeActivity
+ADDED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:10:9-14:56
+	android:launchMode
+		ADDED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:13:13-44
+	android:exported
+		ADDED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:11:13-67
+package#com.kakao.talk
+ADDED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:10:9-50
+	android:name
+		ADDED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:10:18-47
+package#com.kakao.talk.alpha
+ADDED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:11:9-56
+	android:name
+		ADDED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:11:18-53
+package#com.kakao.talk.sandbox
+ADDED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:12:9-58
+	android:name
+		ADDED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:12:18-55
+package#com.kakao.onetalk
+ADDED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:13:9-53
+	android:name
+		ADDED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:13:18-50
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:15:9-21:18
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a5bf0c961545bdd7857f4342ffd25a96\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\a5bf0c961545bdd7857f4342ffd25a96\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

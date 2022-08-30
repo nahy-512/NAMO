@@ -1,0 +1,380 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.namo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:10:5-79
+16-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:10:22-76
+17
+18    <queries>
+18-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:13:5-23:15
+19
+20        <!-- 네이버앱 : 로그인, 스킴로그인 -->
+21        <package android:name="com.nhn.android.search" />
+21-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:16:9-58
+21-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:16:18-55
+22        <!-- 커스텀탭 로그인 -->
+23        <intent>
+23-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:18:9-20:18
+24            <action android:name="android.support.customtabs.action.CustomTabsService" />
+24-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:19:13-90
+24-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:19:21-87
+25        </intent>
+26
+27        <package android:name="com.android.chrome" />
+27-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:22:9-54
+27-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:22:18-51
+28        <package android:name="com.kakao.talk" />
+28-->[com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:10:9-50
+28-->[com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:10:18-47
+29        <package android:name="com.kakao.talk.alpha" />
+29-->[com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:11:9-56
+29-->[com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:11:18-53
+30        <package android:name="com.kakao.talk.sandbox" />
+30-->[com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:12:9-58
+30-->[com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:12:18-55
+31        <package android:name="com.kakao.onetalk" />
+31-->[com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:13:9-53
+31-->[com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:13:18-50
+32
+33        <intent>
+33-->[com.kakao.sdk:v2-common:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\25ea10195ae7213398e94e0590b02a7c\transformed\jetified-v2-common-2.11.0\AndroidManifest.xml:15:9-21:18
+34            <action android:name="android.intent.action.VIEW" />
+34-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:25:17-69
+34-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:25:25-66
+35
+36            <category android:name="android.intent.category.BROWSABLE" />
+36-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:28:17-78
+36-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:28:27-75
+37
+38            <data android:scheme="https" />
+38-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:30:17-32:65
+38-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:32:21-62
+39        </intent>
+40    </queries>
+41
+42    <application
+42-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:12:5-102:19
+43        android:name="com.example.namo.Data.Login.GlobalApplication"
+43-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:13:9-53
+44        android:allowBackup="true"
+44-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:14:9-35
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.8.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c11774caf7d0459999c55b57d6051b00\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+46        android:debuggable="true"
+47        android:extractNativeLibs="false"
+48        android:icon="@mipmap/ic_launcher"
+48-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:15:9-43
+49        android:label="@string/app_name"
+49-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:16:9-41
+50        android:networkSecurityConfig="@xml/network_security_config"
+50-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:17:9-69
+51        android:requestLegacyExternalStorage="true"
+51-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:18:9-52
+52        android:roundIcon="@mipmap/ic_launcher_round"
+52-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:19:9-54
+53        android:supportsRtl="true"
+53-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:20:9-35
+54        android:testOnly="true" >
+55        <activity
+55-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:21:9-34:20
+56            android:name="com.kakao.sdk.auth.AuthCodeHandlerActivity"
+56-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:22:13-70
+57            android:exported="true"
+57-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:23:13-36
+58            android:launchMode="singleTask"
+58-->[com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:17:13-44
+59            android:theme="@style/TransparentCompat" >
+59-->[com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:18:13-53
+60            <intent-filter>
+60-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:24:13-33:29
+61                <action android:name="android.intent.action.VIEW" />
+61-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:25:17-69
+61-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:25:25-66
+62
+63                <category android:name="android.intent.category.DEFAULT" />
+63-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:27:17-76
+63-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:27:27-73
+64                <category android:name="android.intent.category.BROWSABLE" />
+64-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:28:17-78
+64-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:28:27-75
+65
+66                <data
+66-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:30:17-32:65
+67                    android:host="oauth"
+67-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:31:21-41
+68                    android:scheme="@string/kakao_native_key" />
+68-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:32:21-62
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:35:9-43:20
+72            android:name="com.example.namo.SplashActivity"
+72-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:36:13-43
+73            android:exported="true" >
+73-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:37:13-36
+74            <intent-filter>
+74-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:38:13-42:29
+75                <action android:name="android.intent.action.MAIN" />
+75-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:39:17-69
+75-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:39:25-66
+76
+77                <category android:name="android.intent.category.LAUNCHER" />
+77-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:41:17-77
+77-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:41:27-74
+78            </intent-filter>
+79        </activity>
+80        <activity android:name="com.example.namo.Bottom.MainActivity" />
+80-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:44:9-57
+80-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:44:19-54
+81        <activity android:name="com.example.namo.Login.LoginActivity" />
+81-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:45:9-57
+81-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:45:19-54
+82        <activity
+82-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:46:9-47:55
+83            android:name="com.example.namo.Login.Onboarding.TermsActivity"
+83-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:46:19-65
+84            android:theme="@style/Theme.Transparent" />
+84-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:47:13-53
+85        <activity
+85-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:48:9-50:61
+86            android:name="com.example.namo.Bottom.Group.GroupAddPlaceActivity"
+86-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:49:13-63
+87            android:theme="@style/Theme.NaMo.NoActionBar" />
+87-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:50:13-58
+88        <activity
+88-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:51:9-53:61
+89            android:name="com.example.namo.Bottom.Group.GroupSeeActivity"
+89-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:52:13-58
+90            android:theme="@style/Theme.NaMo.NoActionBar" />
+90-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:53:13-58
+91        <activity android:name="com.example.namo.Bottom.Home.Record.RecordEditActivity" />
+91-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:54:9-75
+91-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:54:19-72
+92        <activity android:name="com.example.namo.Bottom.Home.Record.RecordWriteActivity" />
+92-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:55:9-76
+92-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:55:19-73
+93        <activity
+93-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:56:9-58:56
+94            android:name="com.example.namo.Floating.Schedule.AddActivity"
+94-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:57:13-58
+95            android:theme="@style/Theme.Transparent" />
+95-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:58:13-53
+96        <activity
+96-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:59:9-61:56
+97            android:name="com.example.namo.Floating.Todo.AddTodoActivity"
+97-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:60:13-58
+98            android:theme="@style/Theme.Transparent" />
+98-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:61:13-53
+99        <activity
+99-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:62:9-64:56
+100            android:name="com.example.namo.Floating.Category.CategoryActivity"
+100-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:63:13-63
+101            android:theme="@style/Theme.Transparent" />
+101-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:64:13-53
+102        <activity
+102-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:65:9-67:56
+103            android:name="com.example.namo.Floating.Category.CategoryEditActivity"
+103-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:66:13-67
+104            android:theme="@style/Theme.Transparent" />
+104-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:67:13-53
+105        <activity
+105-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:68:9-70:64
+106            android:name="com.example.namo.Floating.Schedule.AlertActivity"
+106-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:69:13-60
+107            android:theme="@android:style/Theme.Holo.Dialog" />
+107-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:70:13-61
+108        <activity
+108-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:71:9-73:61
+109            android:name="com.example.namo.Floating.Schedule.PlaceSearchActivity"
+109-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:72:13-66
+110            android:theme="@style/Theme.NaMo.NoActionBar" />
+110-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:73:13-58
+111        <activity
+111-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:74:9-76:56
+112            android:name="com.example.namo.Bottom.Home.EditScheduleActivity"
+112-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:75:13-61
+113            android:theme="@style/Theme.Transparent" />
+113-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:76:13-53
+114        <activity
+114-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:77:9-79:64
+115            android:name="com.example.namo.Bottom.Group.GroupScheduleActivity"
+115-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:78:13-63
+116            android:theme="@style/Theme.MaterialTransparent" />
+116-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:79:13-61
+117        <activity
+117-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:80:9-82:56
+118            android:name="com.example.namo.Bottom.Group.GroupRecordActivity"
+118-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:81:13-61
+119            android:theme="@style/Theme.Transparent" />
+119-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:82:13-53
+120        <activity
+120-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:83:9-85:56
+121            android:name="com.example.namo.Bottom.Group.AddGroupActivity"
+121-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:84:13-58
+122            android:theme="@style/Theme.Transparent" />
+122-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:85:13-53
+123        <activity
+123-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:86:9-88:56
+124            android:name="com.example.namo.Bottom.Group.EditGroupNameActivity"
+124-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:87:13-63
+125            android:theme="@style/Theme.Transparent" />
+125-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:88:13-53
+126        <activity
+126-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:89:9-91:56
+127            android:name="com.example.namo.Bottom.Group.InputGroupCodeActivity"
+127-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:90:13-64
+128            android:theme="@style/Theme.Transparent" />
+128-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:91:13-53
+129        <activity
+129-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:92:9-94:56
+130            android:name="com.example.namo.Bottom.Group.GroupInfoBubbleActivity"
+130-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:93:13-65
+131            android:theme="@style/Theme.Transparent" />
+131-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:94:13-53
+132        <activity
+132-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:95:9-97:56
+133            android:name="com.example.namo.Bottom.Group.GroupPayActivity"
+133-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:96:13-58
+134            android:theme="@style/Theme.Transparent" />
+134-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:97:13-53
+135
+136        <meta-data
+136-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:99:9-101:53
+137            android:name="com.kakao.sdk.AppKey"
+137-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:100:13-48
+138            android:value="@string/kakao_app_key" />
+138-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:101:13-50
+139        <!-- <activity -->
+140        <!-- android:name="com.nhn.android.naverlogin.ui.OAuthLoginActivity" -->
+141        <!-- android:configChanges="orientation|screenSize" -->
+142        <!-- android:theme="@style/Theme.AppCompat.Light.Dialog" /> -->
+143        <activity
+143-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:32:9-35:78
+144            android:name="com.navercorp.nid.oauth.NidOAuthBridgeActivity"
+144-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:33:13-74
+145            android:configChanges="orientation|screenSize"
+145-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:34:13-59
+146            android:theme="@style/Theme.AppCompat.Transparent.NoActionBar" />
+146-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:35:13-75
+147        <activity
+147-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:36:9-41:78
+148            android:name="com.navercorp.nid.oauth.activity.NidOAuthWebViewActivity"
+148-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:37:13-84
+149            android:configChanges="orientation|screenSize"
+149-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:38:13-59
+150            android:label="OAuth2.0 by WebView"
+150-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:39:13-48
+151            android:screenOrientation="behind"
+151-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:40:13-47
+152            android:theme="@style/Theme.AppCompat.Transparent.NoActionBar" />
+152-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:41:13-75
+153        <activity
+153-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:42:9-61:20
+154            android:name="com.navercorp.nid.oauth.activity.NidOAuthCustomTabActivity"
+154-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:43:13-86
+155            android:configChanges="orientation|screenSize"
+155-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:44:13-59
+156            android:exported="true"
+156-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:45:13-36
+157            android:label="OAuth2.0 by Custom tabs"
+157-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:46:13-52
+158            android:launchMode="singleTask"
+158-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:47:13-44
+159            android:screenOrientation="behind"
+159-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:48:13-47
+160            android:theme="@style/Theme.AppCompat.NoActionBar" >
+160-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:49:13-63
+161            <intent-filter>
+161-->[com.navercorp.nid:oauth-jdk8:5.1.1] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c93a6580746ea508e0a77e9df5da5d29\transformed\jetified-oauth-jdk8-5.1.1\AndroidManifest.xml:50:13-60:29
+162                <action android:name="android.intent.action.VIEW" />
+162-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:25:17-69
+162-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:25:25-66
+163
+164                <category android:name="android.intent.category.DEFAULT" />
+164-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:27:17-76
+164-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:27:27-73
+165                <category android:name="android.intent.category.BROWSABLE" />
+165-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:28:17-78
+165-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:28:27-75
+166                <!-- Intent URL 에서 로그인 액티비티를 실행하기 위해 설정 -->
+167                <data
+167-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:30:17-32:65
+168                    android:host="authorize"
+168-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:31:21-41
+169                    android:path="/"
+170                    android:scheme="naver3rdpartylogin" />
+170-->C:\Users\hedgh\TeamNamo\Android\app\src\main\AndroidManifest.xml:32:21-62
+171            </intent-filter>
+172        </activity>
+173        <activity
+173-->[com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:10:9-14:56
+174            android:name="com.kakao.sdk.auth.TalkAuthCodeActivity"
+174-->[com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:11:13-67
+175            android:exported="false"
+175-->[com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:12:13-37
+176            android:launchMode="singleTask"
+176-->[com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:13:13-44
+177            android:theme="@style/TransparentCompat" />
+177-->[com.kakao.sdk:v2-auth:2.11.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\e001710a74441461c9e0767eee554669\transformed\jetified-v2-auth-2.11.0\AndroidManifest.xml:14:13-53
+178
+179        <uses-library
+179-->[androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+180            android:name="androidx.window.extensions"
+180-->[androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+181            android:required="false" />
+181-->[androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+182        <uses-library
+182-->[androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+183            android:name="androidx.window.sidecar"
+183-->[androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+184            android:required="false" />
+184-->[androidx.window:window:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\4f3a5a891763c8720f334b50419ed184\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+185
+186        <provider
+186-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+187            android:name="androidx.startup.InitializationProvider"
+187-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+188            android:authorities="com.example.namo.androidx-startup"
+188-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+189            android:exported="false" >
+189-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+190            <meta-data
+190-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+191                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+191-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+192                android:value="androidx.startup" />
+192-->[androidx.emoji2:emoji2:1.0.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\3faf304ebcf0191c1be39bcbb2dcf00c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+193            <meta-data
+193-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+194                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+194-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+195                android:value="androidx.startup" />
+195-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\hedgh\OtherGithub\udemy-android-study\notification-study\caches\transforms-3\c14ed7416dbc5b56097c3134d549553e\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+196        </provider>
+197    </application>
+198
+199</manifest>
